@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Luiz
+- 👋 Ola, eu sou @Luiz
 - 👀 Estou interessado em aprender novas linguas  ...
 - 🌱 Estou aprendendo a programa o javaScript e Scratch ...
 - 📫 Meu email de contato veloso.luiz@escola.pr.gov.br  ...
 
-<!---
-LuizAlura/LuizAlura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
